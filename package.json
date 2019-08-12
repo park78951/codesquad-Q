@@ -1,7 +1,7 @@
 {
   "name": "javascript-web-todo",
   "version": "1.0.0",
-  "main": "/build/index.html",
+  "main": "/build/bundle.js",
   "repository": "https://github.com/park78951/codesquad-Q.git",
   "scripts": {
     "dev": "webpack-dev-server --hot",
